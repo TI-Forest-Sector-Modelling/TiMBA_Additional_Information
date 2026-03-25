@@ -18,14 +18,14 @@ Source:
 FAO. FAOSTAT Statistical Database.
 https://www.fao.org/faostat/
 
-### Attribution
-
-© FAO (FAOSTAT and FRA 2025)
-
 ### Global Forest Resources Assessment (FRA 2025)
 
 FAO. Global Forest Resources Assessment 2025.
 https://fra-data.fao.org/assessments/fra/2025
+
+### Attribution
+
+© FAO (FAOSTAT and FRA 2025)
 
 ### License:
 FAOSTAT data are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0):
@@ -42,6 +42,17 @@ Modifications include:
 - formatting changes
 
 These modifications do not affect the original licensing of the data.
+
+### World Trade Organization (WTO)
+
+This repository uses tariff data sourced from the World Trade Organization (WTO).
+
+WTO Tariff & Trade Data
+https://ttd.wto.org/en/download/indicators
+
+The data have been reformatted, aggregated and processed for use in this project.
+Users should refer to the original WTO source for terms of use and are responsible for complying with them.
+
 
 ### Licensing
 Code in this repository is licensed under the GNU GPL v3 License (see LICENSE)
