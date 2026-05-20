@@ -23,12 +23,6 @@ https://creativecommons.org/licenses/by/4.0/
 
 © FAO. Data sourced from FAOSTAT and FRA 2025.
 
-## Notice
-
-* The CC BY 4.0 license applies to both original and modified data.
-* Proper attribution to FAO is required when reusing the data.
-* This repository does not impose additional restrictions.
-
 
 ### World Development Indicators (WDI)
 
@@ -55,9 +49,17 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Modifications
 
-The data have been modified, including:
+The original data have been modified, including:
 
-* integration of multiple datasets
-* cleaning and restructuring
-* harmonization of variables and units
-* aggregation
+- integration of multiple datasets
+- cleaning and restructuring
+- harmonization of variables and units
+- aggregation
+- preprocessing and transformation for analysis
+
+## Notice
+
+- Proper attribution to all original data providers is required.
+- Commercial use restrictions apply to SSP-derived data.
+- This repository does not impose additional restrictions beyond the original licenses.
+- Users are responsible for complying with all source-specific license terms.
