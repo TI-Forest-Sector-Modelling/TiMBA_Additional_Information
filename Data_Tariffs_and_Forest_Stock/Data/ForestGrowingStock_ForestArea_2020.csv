@@ -1,0 +1,181 @@
+country,forest_growing_stock (mio_m3),Flag,"annual_forest_stock_growth, without_harvest",Flag,forest_area,annual_area_growth
+Algeria,87,A,0.098,,1949,-0.001
+Angola,2544,A,-0.005,,66607,-0.008
+Benin,191,A,0.024,,3135,-0.015
+Botswana,1579,A,-0.007,,15255,-0.008
+Burkina Faso,141,A,0.077,,6216,-0.008
+Burundi,33,A,0.171,,280,0.000
+Cameroon,5675,A,0.000,,20340,-0.003
+Cape Verde,7,A,0.039,,46,0.007
+Central African Republic,3725,A,0.000,,22303,-0.001
+Chad,79,A,0.079,,4313,-0.025
+"Congo, Republic of",4301,A,0.000,,21946,-0.001
+Côte d'Ivoire,131,A,0.051,,2837,-0.036
+Djibouti,1,O,0.701,,6,0.007
+Egypt,5,A,0.813,,45,-0.015
+Equatorial Guinea,404,A,0.001,,2448,-0.003
+Ethiopia,2177,A,0.050,,17069,-0.004
+Gabon,5530,A,0.000,,23531,-0.001
+Gambia,8,A,0.085,,243,-0.022
+Ghana,394,A,0.137,,7986,0.003
+Guinea,479,A,0.024,,6189,-0.006
+Guinea-Bissau,60,A,0.049,,1980,-0.004
+Kenya,773,A,0.044,,3611,0.005
+Lesotho,2,A,0.464,,35,0.000
+Liberia,1204,A,0.005,,7617,-0.004
+Libyan Arab Jamahiriya,8,A,0.134,,217,0.000
+Madagascar,2126,A,0.007,,12430,-0.001
+Malawi,118,A,0.046,,2242,-0.018
+Mali,566,A,0.014,,13296,0.000
+Mauritania,9,A,0.235,,313,-0.017
+Mauritius,3,A,-0.002,,38,0.002
+Morocco,153,A,0.052,,5742,0.002
+Mozambique,1339,A,0.010,,36744,-0.006
+Niger,11,A,0.484,,1080,-0.011
+Nigeria,2166,A,0.031,,21627,-0.007
+Réunion,19,A,0.012,,98,0.005
+Rwanda,29,A,0.184,,276,0.004
+Sao Tome and Principe,6,A,0.013,,52,-0.012
+Senegal,300,A,0.019,,8068,-0.005
+Sierra Leone,101,A,0.055,,2535,-0.008
+Somalia,299,A,0.042,,5980,-0.012
+South Africa,898,A,0.032,,17050,-0.002
+Sudan,367,A,0.040,,18360,-0.009
+Swaziland,33,A,0.129,,498,0.002
+"Tanzania, United Rep of",3077,A,0.000,,45771,-0.010
+Togo,96,A,0.049,,1209,-0.002
+Tunisia,22,A,0.140,,703,0.002
+Uganda,175,A,0.197,,2338,-0.017
+"Congo, Dem Republic of",30782,A,-0.005,,126155,-0.009
+Zambia,2963,A,0.006,,44814,-0.004
+Zimbabwe,602,A,-0.004,,17445,-0.003
+Bahamas,16,A,0.004,,510,0.000
+Barbados,1,G,0.000,,6,0.000
+Belize,207,A,-0.008,,1277,-0.009
+Canada,45108,A,0.004,,346928,0.000
+Saint Lucia,7,A,0.013,,21,0.000
+Costa Rica,795,A,0.012,,3035,0.005
+Cuba,292,A,0.011,,3242,0.004
+Dominica,11,G,0.000,,48,0.000
+Dominican Republic,193,A,0.010,,2144,0.004
+El Salvador,110,A,0.040,,584,-0.008
+Guatemala,500,A,0.043,,3528,-0.003
+Haiti,23,A,0.092,,347,-0.009
+Honduras,1068,A,0.007,,6359,-0.003
+Jamaica,64,A,0.013,,597,0.007
+Martinique,15,A,0.005,,52,0.004
+Mexico,3732,A,0.012,,65692,-0.002
+Netherlands Antilles,1,O,0.000,,1,0.000
+Nicaragua,505,A,-0.013,,3408,-0.027
+Panama,1048,A,-0.001,,4214,-0.003
+Saint Vincent/Grenadines,5,A,0.002,,29,0.000
+Trinidad and Tobago,27,A,0.007,,228,-0.002
+United States of America,41269,A,0.013,,309795,0.000
+Argentina,3019,A,0.009,,28573,-0.004
+Bolivia,3925,A,-0.004,,50834,-0.005
+Brazil,120358,A,0.001,,496620,-0.003
+Chile,4494,A,0.023,,18211,0.007
+Colombia,14830,A,-0.003,,59142,-0.003
+Ecuador,2427,A,-0.002,,12498,-0.005
+French Guiana,2641,A,0.000,,8003,0.000
+Guyana,7068,A,0.000,,18415,0.000
+Paraguay,1039,A,-0.003,,16102,-0.016
+Peru,11525,A,-0.001,,72330,-0.002
+Suriname,5651,A,-0.001,,15196,-0.001
+Uruguay,222,A,0.070,,2031,0.011
+"Venezuela, Boliv Rep of",10254,A,-0.001,,46231,-0.002
+Afghanistan,155,G,0.000,,1208,0.000
+Bahrain,1,O,0.000,,1,0.031
+Bangladesh,92,A,0.223,,1883,0.000
+Bhutan,943,A,0.007,,2725,0.001
+Brunei Darussalam,72,A,0.002,,380,0.000
+Cambodia,847,A,-0.008,,8068,-0.018
+China,19191,A,0.042,,219978,0.009
+Cyprus,12,A,0.017,,173,0.000
+Maldives,1,A,0.184,,1,0.000
+India,5142,A,0.072,,72160,0.004
+Indonesia,12727,A,0.005,,92133,-0.006
+"Iran, Islamic Rep of",469,C,0.000,,10752,0.001
+Iraq,31,A,0.007,,825,0.000
+Israel,1,C,0.000,,140,-0.032
+Japan,4700,B,0.000,Z,24935,0.000
+Jordan,3,A,0.117,,98,0.000
+"Korea, Dem People's Rep",383,A,0.019,,6030,-0.003
+"Korea, Republic of",1018,A,0.025,,6287,-0.002
+Kuwait,1,O,0.000,,6,0.000
+Laos,984,A,0.007,,16596,-0.002
+Lebanon,5,A,0.011,,143,0.004
+Timor-Leste,92,A,0.000,,921,-0.002
+Malaysia,4132,A,0.001,,19114,-0.004
+Mongolia,1365,A,0.001,,14173,0.000
+Myanmar,901,A,0.041,,28545,-0.010
+Nepal,982,A,0.016,,5962,0.000
+Oman,1,D,0.239,,3,-0.036
+Pakistan,212,A,0.130,,3726,-0.011
+Philippines,1233,A,0.014,,7189,0.005
+Qatar,0,G,0.000,,1,0.000
+Saudi Arabia,8,A,0.040,,977,0.000
+Singapore,2,D,0.007,,16,-0.011
+Sri Lanka,47,A,0.109,,2113,-0.001
+Syrian Arab Republic,16,A,0.006,,522,0.000
+Thailand,1892,A,0.018,,19873,-0.002
+Turkey,1697,A,0.029,,22220,0.005
+United Arab Emirates,16,A,0.001,,317,0.000
+Viet Nam,1218,A,0.058,,14643,0.008
+Yemen,5,A,0.107,,549,0.000
+Australia,11254,D,-0.001,,134005,0.001
+Cook Islands,1,O,0.000,,16,0.000
+Fiji Islands,251,A,0.010,,1140,0.006
+French Polynesia,15,A,0.000,,149,0.000
+New Caledonia,66,A,0.000,,838,0.000
+New Zealand,4144,A,0.011,,9893,0.001
+Papua New Guinea,3410,A,0.002,,35856,-0.001
+Samoa,11,A,0.005,,162,-0.003
+Solomon Islands,121,A,-0.072,,2523,0.000
+Tonga,1,A,0.003,,9,0.000
+Vanuatu,93,G,0.000,,442,0.000
+Albania,55,A,0.021,,789,0.000
+Austria,1166,A,0.021,,3899,0.001
+Belgium,180,B,0.000,Z,689,0.000
+Bosnia and Herzegovina,405,A,0.016,,2188,0.003
+Bulgaria,767,A,0.034,,3893,0.003
+Croatia,427,A,0.020,,1939,0.002
+Czech Republic,791,A,0.038,,2677,0.001
+Denmark,133,A,0.036,,628,0.001
+Finland,2449,A,0.029,,22409,0.000
+France,3056,A,0.033,,17253,0.005
+Germany,3663,A,0.022,,11419,0.000
+Greece,192,A,0.009,,3902,0.000
+Hungary,397,A,0.026,,2053,-0.001
+Luxembourg,35,A,0.024,,89,0.000
+Ireland,122,A,0.046,,782,0.007
+Italy,1424,A,0.017,,9566,0.006
+"Macedonia,The Fmr Yug Rp",76,A,0.013,,1001,0.001
+Montenegro,121,C,0.000,,827,0.000
+Netherlands,83,A,0.049,,370,0.003
+Norway,1233,A,0.026,,12180,0.001
+Poland,2730,A,0.033,,9483,0.001
+Portugal,172,B,0.000,Z,3312,0.000
+Romania,2355,A,0.020,,6929,0.001
+Slovakia,538,A,0.021,,1926,0.000
+Slovenia,414,A,0.014,,1238,-0.002
+Spain,1109,A,0.027,,18572,0.000
+Sweden,3654,A,0.033,,27980,0.000
+Switzerland,449,A,0.016,,1269,0.003
+United Kingdom,677,A,0.031,,3190,0.002
+Serbia,421,A,0.023,,2723,0.000
+Armenia,41,B,0.000,,328,-0.001
+"Azerbaijan, Republic of",195,A,0.012,,1132,0.010
+Belarus,1807,A,0.032,,8768,0.003
+Estonia,494,A,0.026,,2438,0.001
+Georgia,455,A,0.002,,2822,0.000
+Kazakhstan,407,A,0.006,,3455,0.009
+Kyrgyzstan,58,A,0.023,,1315,0.010
+Latvia,672,A,0.028,,3411,0.001
+Lithuania,559,A,0.022,,2201,0.001
+"Moldova, Republic of",45,A,0.032,,387,0.000
+Russian Federation,81071,A,0.002,,815312,0.000
+Tajikistan,44,G,0.000,,424,0.001
+Turkmenistan,15,B,0.000,Z,4127,0.000
+Ukraine,2280,A,0.017,,9690,0.001
+Uzbekistan,76,B,0.000,,3690,0.008
