@@ -1,0 +1,355 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-06-11T12:06:55.591947+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/TI-Forest-Sector-Modelling/TiMBA_Additional_Information"
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 3,
+    "enabled": true,
+    "entries": {
+      ".gitignore": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ab98aeb1b82bae8cc4e00a92626bda97",
+        "ext": "bin",
+        "id": "03afbf23-77e8-427f-a1c3-8029ad86283f",
+        "key": ".gitignore",
+        "links": {
+          "content": "https://zenodo.org/api/records/19466845/files/.gitignore/content",
+          "self": "https://zenodo.org/api/records/19466845/files/.gitignore"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 3415,
+        "storage_class": "L"
+      },
+      "LICENSE": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1ebbd3e34237af26da5dc08a4e440464",
+        "ext": "bin",
+        "id": "a3c54c82-3782-4dba-8fdd-6f7c7b77ff17",
+        "key": "LICENSE",
+        "links": {
+          "content": "https://zenodo.org/api/records/19466845/files/LICENSE/content",
+          "self": "https://zenodo.org/api/records/19466845/files/LICENSE"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 35149,
+        "storage_class": "L"
+      },
+      "TI-Forest-Sector-Modelling/TiMBA_Additional_Information-v1.0.2.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1dca6ac0bc916869ee2c6842a43866cb",
+        "ext": "zip",
+        "id": "84159421-8088-4e39-9313-649dcac0563b",
+        "key": "TI-Forest-Sector-Modelling/TiMBA_Additional_Information-v1.0.2.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/19466845/files/TI-Forest-Sector-Modelling/TiMBA_Additional_Information-v1.0.2.zip/container",
+          "content": "https://zenodo.org/api/records/19466845/files/TI-Forest-Sector-Modelling/TiMBA_Additional_Information-v1.0.2.zip/content",
+          "self": "https://zenodo.org/api/records/19466845/files/TI-Forest-Sector-Modelling/TiMBA_Additional_Information-v1.0.2.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 12144108,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 12182672
+  },
+  "id": "19466845",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/19466845/access",
+    "access_grants": "https://zenodo.org/api/records/19466845/access/grants",
+    "access_links": "https://zenodo.org/api/records/19466845/access/links",
+    "access_request": "https://zenodo.org/api/records/19466845/access/request",
+    "access_users": "https://zenodo.org/api/records/19466845/access/users",
+    "archive": "https://zenodo.org/api/records/19466845/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19466845/media-files-archive",
+    "communities": "https://zenodo.org/api/records/19466845/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19466845/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.19466845",
+    "draft": "https://zenodo.org/api/records/19466845/draft",
+    "file_modification": "https://zenodo.org/api/records/19466845/file-modification",
+    "files": "https://zenodo.org/api/records/19466845/files",
+    "latest": "https://zenodo.org/api/records/19466845/versions/latest",
+    "latest_html": "https://zenodo.org/records/19466845/latest",
+    "media_files": "https://zenodo.org/api/records/19466845/media-files",
+    "parent": "https://zenodo.org/api/records/14928910",
+    "parent_doi": "https://doi.org/10.5281/zenodo.14928910",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14928910",
+    "parent_html": "https://zenodo.org/records/14928910",
+    "preview_html": "https://zenodo.org/records/19466845?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/19466845/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/19466845/request-deletion",
+    "requests": "https://zenodo.org/api/records/19466845/requests",
+    "reserve_doi": "https://zenodo.org/api/records/19466845/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/19466845",
+    "self_doi": "https://doi.org/10.5281/zenodo.19466845",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19466845",
+    "self_html": "https://zenodo.org/records/19466845",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19466845/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19466845/sequence/default",
+    "versions": "https://zenodo.org/api/records/19466845/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Johann Heinrich von Th\u00fcnen Insitute"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Schier",
+          "given_name": "Franziska",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3378-1371",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Schier, Franziska",
+          "type": "personal"
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Johann Heinrich von Th\u00fcnen Institute"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Christian Morland",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6600-570X",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Christian Morland",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Th\u00fcnen-Institute of Forestry"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Tomke Honkomp",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6719-0190",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Tomke Honkomp",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Joint Research Centre: Ispra, IT"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Tandetzki",
+          "given_name": "Julia",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0630-9434",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Tandetzki, Julia",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>This repository contains additional information on the aquisition and generation of data and parameters used in TiMBA</p>",
+    "publication_date": "2026-06-11",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/TI-Forest-Sector-Modelling/TiMBA_Additional_Information/tree/v1.0.2",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-datapaper",
+      "title": {
+        "de": "Datenpapier",
+        "en": "Data paper"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "id": "gpl-3.0-only",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html"
+        },
+        "title": {
+          "en": "GNU General Public License v3.0 only"
+        }
+      }
+    ],
+    "title": "TI-Forest-Sector-Modelling/TiMBA_Additional_Information: Reworking data files and licenses",
+    "version": "v1.0.2"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "1273011"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "09c92e32-50ba-4d88-8c60-9a74a198078d",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2024-03-26T14:59:31.275326+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "09c92e32-50ba-4d88-8c60-9a74a198078d",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>The Zenodo community of the Th&uuml;nen-Institut contains exclusively content with contributions of the Th&uuml;nen-Institut. All other submissions will be rejected.</p>",
+            "organizations": [
+              {
+                "id": "00mr84n67"
+              }
+            ],
+            "title": "Johann Heinrich von Th\u00fcnen-Institut",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://www.thuenen.de/de/"
+          },
+          "revision_id": 7,
+          "slug": "thuenen",
+          "updated": "2024-03-26T15:18:00.842375+00:00"
+        }
+      ],
+      "ids": [
+        "09c92e32-50ba-4d88-8c60-9a74a198078d"
+      ]
+    },
+    "id": "14928910",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.14928910",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.19466845",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19466845",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 8,
+  "stats": {
+    "all_versions": {
+      "data_volume": 393139041.0,
+      "downloads": 259,
+      "unique_downloads": 235,
+      "unique_views": 308,
+      "views": 340
+    },
+    "this_version": {
+      "data_volume": 389942224.0,
+      "downloads": 100,
+      "unique_downloads": 97,
+      "unique_views": 73,
+      "views": 84
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-06-24T07:49:40.345614+00:00",
+  "versions": {
+    "index": 3,
+    "is_latest": false
+  }
+}
